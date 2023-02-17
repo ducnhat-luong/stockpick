@@ -1,0 +1,226 @@
+Code,Company Name,Nikkei Industrial Classification,Sector,Weight
+1332,"NIPPON SUISAN KAISHA, LTD.",Fishery,Consumer Goods,0.06%
+1605,INPEX CORP.,Mining,Materials,0.08%
+1721,COMSYS HOLDINGS CORP.,Construction,Capital Goods/Others,0.30%
+1801,TAISEI CORP.,Construction,Capital Goods/Others,0.10%
+1802,OBAYASHI CORP.,Construction,Capital Goods/Others,0.13%
+1803,SHIMIZU CORP.,Construction,Capital Goods/Others,0.09%
+1808,HASEKO CORP.,Construction,Capital Goods/Others,0.04%
+1812,KAJIMA CORP.,Construction,Capital Goods/Others,0.09%
+1925,"DAIWA HOUSE IND. CO., LTD.",Construction,Capital Goods/Others,0.39%
+1928,"SEKISUI HOUSE, LTD.",Construction,Capital Goods/Others,0.31%
+1963,JGC HOLDINGS CORP.,Construction,Capital Goods/Others,0.23%
+2002,NISSHIN SEIFUN GROUP INC.,Foods,Consumer Goods,0.20%
+2269,"MEIJI HOLDINGS CO., LTD.",Foods,Consumer Goods,0.16%
+2282,NH FOODS LTD.,Foods,Consumer Goods,0.23%
+2413,"M3, INC.",Services,Consumer Goods,1.24%
+2432,"DENA CO., LTD.",Services,Consumer Goods,0.07%
+2501,SAPPORO HOLDINGS LTD.,Foods,Consumer Goods,0.09%
+2502,"ASAHI GROUP HOLDINGS, LTD.",Foods,Consumer Goods,0.54%
+2503,"KIRIN HOLDINGS CO., LTD.",Foods,Consumer Goods,0.27%
+2531,TAKARA HOLDINGS INC.,Foods,Consumer Goods,0.13%
+2768,SOJITZ CORP.,Trading Companies,Materials,0.03%
+2801,KIKKOMAN CORP.,Foods,Consumer Goods,0.95%
+2802,"AJINOMOTO CO., INC.",Foods,Consumer Goods,0.53%
+2871,NICHIREI CORP.,Foods,Consumer Goods,0.17%
+2914,JAPAN TOBACCO INC.,Foods,Consumer Goods,0.34%
+3086,"J.FRONT RETAILING CO., LTD.",Retail,Consumer Goods,0.07%
+3099,ISETAN MITSUKOSHI HOLDINGS LTD.,Retail,Consumer Goods,0.16%
+3101,"TOYOBO CO., LTD.",Textiles & Apparel,Materials,0.01%
+3289,TOKYU FUDOSAN HOLDINGS CORP.,Real Estate,Capital Goods/Others,0.09%
+3382,"SEVEN & I HOLDINGS CO., LTD.",Retail,Consumer Goods,0.68%
+3401,TEIJIN LTD.,Textiles & Apparel,Materials,0.03%
+3402,"TORAY INDUSTRIES, INC.",Textiles & Apparel,Materials,0.09%
+3405,"KURARAY CO., LTD.",Chemicals,Materials,0.13%
+3407,ASAHI KASEI CORP.,Chemicals,Materials,0.12%
+3436,SUMCO CORP.,Nonferrous Metals,Materials,0.02%
+3659,"NEXON CO., LTD.",Services,Consumer Goods,0.71%
+3861,OJI HOLDINGS CORP.,Pulp & Paper,Materials,0.06%
+3863,"NIPPON PAPER INDUSTRIES CO., LTD.",Pulp & Paper,Materials,0.01%
+4004,SHOWA DENKO K.K.,Chemicals,Materials,0.03%
+4005,"SUMITOMO CHEMICAL CO., LTD.",Chemicals,Materials,0.06%
+4021,NISSAN CHEMICAL CORP.,Chemicals,Materials,0.83%
+4042,TOSOH CORP.,Chemicals,Materials,0.10%
+4043,TOKUYAMA CORP.,Chemicals,Materials,0.05%
+4061,"DENKA CO., LTD.",Chemicals,Materials,0.08%
+4063,"SHIN-ETSU CHEMICAL CO., LTD.",Chemicals,Materials,2.15%
+4151,"KYOWA KIRIN CO., LTD.",Pharmaceuticals,Technology,0.39%
+4183,"MITSUI CHEMICALS, INC.",Chemicals,Materials,0.08%
+4188,MITSUBISHI CHEMICAL GROUP CORP.,Chemicals,Materials,0.04%
+4208,UBE CORP.,Chemicals,Materials,0.02%
+4324,DENTSU GROUP INC.,Services,Consumer Goods,0.54%
+4452,KAO CORP.,Chemicals,Materials,0.67%
+4502,"TAKEDA PHARMACEUTICAL CO., LTD.",Pharmaceuticals,Technology,0.50%
+4503,ASTELLAS PHARMA INC.,Pharmaceuticals,Technology,1.30%
+4506,"SUMITOMO PHARMA CO., LTD.",Pharmaceuticals,Technology,0.13%
+4507,"SHIONOGI & CO., LTD.",Pharmaceuticals,Technology,0.85%
+4519,"CHUGAI PHARMACEUTICAL CO., LTD.",Pharmaceuticals,Technology,1.33%
+4523,"EISAI CO., LTD.",Pharmaceuticals,Technology,1.14%
+4543,TERUMO CORP.,Precision Instruments,Technology,1.98%
+4568,"DAIICHI SANKYO CO., LTD.",Pharmaceuticals,Technology,1.66%
+4578,"OTSUKA HOLDINGS CO., LTD.",Pharmaceuticals,Technology,0.57%
+4631,DIC CORP.,Chemicals,Materials,0.03%
+4689,Z HOLDINGS CORP.,Services,Consumer Goods,0.02%
+4704,TREND MICRO INC.,Services,Consumer Goods,0.83%
+4751,"CYBERAGENT, INC.",Services,Consumer Goods,0.12%
+4755,"RAKUTEN GROUP, INC.",Services,Consumer Goods,0.08%
+4901,FUJIFILM HOLDINGS CORP.,Chemicals,Materials,0.90%
+4902,"KONICA MINOLTA, INC.",Precision Instruments,Technology,0.07%
+4911,"SHISEIDO CO., LTD.",Chemicals,Materials,0.71%
+5019,"IDEMITSU KOSAN CO., LTD.",Petroleum,Materials,0.16%
+5020,"ENEOS HOLDINGS, INC.",Petroleum,Materials,0.06%
+5101,"THE YOKOHAMA RUBBER CO., LTD.",Rubber,Materials,0.14%
+5108,BRIDGESTONE CORP.,Rubber,Materials,0.63%
+5201,AGC INC.,Glass & Ceramics,Materials,0.11%
+5202,"NIPPON SHEET GLASS CO., LTD.",Glass & Ceramics,Materials,0.01%
+5214,"NIPPON ELECTRIC GLASS CO., LTD.",Glass & Ceramics,Materials,0.09%
+5232,"SUMITOMO OSAKA CEMENT CO., LTD.",Glass & Ceramics,Materials,0.04%
+5233,TAIHEIYO CEMENT CORP.,Glass & Ceramics,Materials,0.03%
+5301,"TOKAI CARBON CO., LTD.",Glass & Ceramics,Materials,0.13%
+5332,TOTO LTD.,Glass & Ceramics,Materials,0.29%
+5333,"NGK INSULATORS, LTD.",Glass & Ceramics,Materials,0.22%
+5401,NIPPON STEEL CORP.,Steel,Materials,0.03%
+5406,"KOBE STEEL, LTD.",Steel,Materials,0.01%
+5411,"JFE HOLDINGS, INC.",Steel,Materials,0.02%
+5541,"PACIFIC METALS CO., LTD.",Steel,Materials,0.03%
+5631,"THE JAPAN STEEL WORKS, LTD.",Machinery,Capital Goods/Others,0.07%
+5703,"NIPPON LIGHT METAL HOLDINGS CO., LTD.",Nonferrous Metals,Materials,0.02%
+5706,MITSUI MINING & SMELTING CO.,Nonferrous Metals,Materials,0.04%
+5707,"TOHO ZINC CO., LTD.",Nonferrous Metals,Materials,0.03%
+5711,MITSUBISHI MATERIALS CORP.,Nonferrous Metals,Materials,0.03%
+5713,"SUMITOMO METAL MINING CO., LTD.",Nonferrous Metals,Materials,0.28%
+5714,"DOWA HOLDINGS CO., LTD.",Nonferrous Metals,Materials,0.11%
+5801,"FURUKAWA ELECTRIC CO., LTD.",Nonferrous Metals,Materials,0.03%
+5802,"SUMITOMO ELECTRIC IND., LTD.",Nonferrous Metals,Materials,0.20%
+5803,FUJIKURA LTD.,Nonferrous Metals,Materials,0.14%
+5831,"SHIZUOKA FINANCIAL GROUP, INC.",Banking,Financials,0.12%
+6098,"RECRUIT HOLDINGS CO., LTD.",Services,Consumer Goods,1.59%
+6103,OKUMA CORP.,Machinery,Capital Goods/Others,0.13%
+6113,"AMADA CO., LTD.",Machinery,Capital Goods/Others,0.13%
+6178,"JAPAN POST HOLDINGS CO., LTD.",Services,Consumer Goods,0.13%
+6273,SMC CORP.,Machinery,Capital Goods/Others,0.76%
+6301,KOMATSU LTD.,Machinery,Capital Goods/Others,0.39%
+6302,"SUMITOMO HEAVY IND., LTD.",Machinery,Capital Goods/Others,0.07%
+6305,"HITACHI CONST. MACH. CO., LTD.",Machinery,Capital Goods/Others,0.39%
+6326,KUBOTA CORP.,Machinery,Capital Goods/Others,0.25%
+6361,EBARA CORP.,Machinery,Capital Goods/Others,0.13%
+6367,"DAIKIN INDUSTRIES, LTD.",Machinery,Capital Goods/Others,2.74%
+6471,NSK LTD.,Machinery,Capital Goods/Others,0.09%
+6472,NTN CORP.,Machinery,Capital Goods/Others,0.04%
+6473,JTEKT CORP.,Machinery,Capital Goods/Others,0.12%
+6479,MINEBEA MITSUMI INC.,Electric Machinery,Technology,0.27%
+6501,"HITACHI, LTD.",Electric Machinery,Technology,0.18%
+6503,MITSUBISHI ELECTRIC CORP.,Electric Machinery,Technology,0.17%
+6504,"FUJI ELECTRIC CO., LTD.",Electric Machinery,Technology,0.14%
+6506,YASKAWA ELECTRIC CORP.,Electric Machinery,Technology,0.54%
+6594,NIDEC CORP.,Electric Machinery,Technology,0.84%
+6645,OMRON CORP.,Electric Machinery,Technology,0.86%
+6674,GS YUASA CORP.,Electric Machinery,Technology,0.05%
+6701,NEC CORP.,Electric Machinery,Technology,0.06%
+6702,FUJITSU LTD.,Electric Machinery,Technology,0.23%
+6724,SEIKO EPSON CORP.,Electric Machinery,Technology,0.53%
+6752,PANASONIC HOLDINGS CORP.,Electric Machinery,Technology,0.16%
+6753,SHARP CORP.,Electric Machinery,Technology,0.12%
+6758,SONY GROUP CORP.,Electric Machinery,Technology,1.38%
+6762,TDK CORP.,Electric Machinery,Technology,1.79%
+6770,"ALPS ALPINE CO., LTD.",Electric Machinery,Technology,0.16%
+6841,YOKOGAWA ELECTRIC CORP.,Electric Machinery,Technology,0.31%
+6857,ADVANTEST CORP.,Electric Machinery,Technology,2.24%
+6861,KEYENCE CORP.,Electric Machinery,Technology,0.70%
+6902,DENSO CORP.,Electric Machinery,Technology,0.92%
+6952,"CASIO COMPUTER CO., LTD.",Electric Machinery,Technology,0.16%
+6954,FANUC CORP.,Electric Machinery,Technology,2.49%
+6971,KYOCERA CORP.,Electric Machinery,Technology,1.71%
+6976,"TAIYO YUDEN CO., LTD.",Electric Machinery,Technology,0.53%
+6981,"MURATA MANUFACTURING CO., LTD.",Electric Machinery,Technology,0.73%
+6988,NITTO DENKO CORP.,Chemicals,Materials,1.05%
+7003,"MITSUI E&S HOLDINGS CO., LTD.",Shipbuilding,Capital Goods/Others,0.01%
+7004,HITACHI ZOSEN CORP.,Machinery,Capital Goods/Others,0.02%
+7011,"MITSUBISHI HEAVY IND., LTD.",Machinery,Capital Goods/Others,0.07%
+7012,"KAWASAKI HEAVY IND., LTD.",Shipbuilding,Capital Goods/Others,0.04%
+7013,IHI CORP.,Machinery,Capital Goods/Others,0.05%
+7186,"CONCORDIA FINANCIAL GROUP, LTD.",Banking,Financials,0.06%
+7201,"NISSAN MOTOR CO., LTD.",Automobiles & Auto parts,Technology,0.06%
+7202,ISUZU MOTORS LTD.,Automobiles & Auto parts,Technology,0.11%
+7203,TOYOTA MOTOR CORP.,Automobiles & Auto parts,Technology,1.23%
+7205,"HINO MOTORS, LTD.",Automobiles & Auto parts,Technology,0.08%
+7211,MITSUBISHI MOTORS CORP.,Automobiles & Auto parts,Technology,0.01%
+7261,MAZDA MOTOR CORP.,Automobiles & Auto parts,Technology,0.03%
+7267,"HONDA MOTOR CO., LTD.",Automobiles & Auto parts,Technology,0.82%
+7269,SUZUKI MOTOR CORP.,Automobiles & Auto parts,Technology,0.60%
+7270,SUBARU CORP.,Automobiles & Auto parts,Technology,0.29%
+7272,"YAMAHA MOTOR CO., LTD.",Automobiles & Auto parts,Technology,0.42%
+7731,NIKON CORP.,Precision Instruments,Technology,0.16%
+7733,OLYMPUS CORP.,Precision Instruments,Technology,1.37%
+7735,"SCREEN HOLDINGS CO., LTD.",Electric Machinery,Technology,0.22%
+7741,HOYA CORP.,Precision Instruments,Technology,0.86%
+7751,CANON INC.,Electric Machinery,Technology,0.59%
+7752,"RICOH CO., LTD.",Electric Machinery,Technology,0.13%
+7762,"CITIZEN WATCH CO., LTD.",Precision Instruments,Technology,0.07%
+7832,BANDAI NAMCO HOLDINGS INC.,Other Manufacturing,Capital Goods/Others,1.11%
+7911,TOPPAN INC.,Other Manufacturing,Capital Goods/Others,0.13%
+7912,"DAI NIPPON PRINTING CO., LTD.",Other Manufacturing,Capital Goods/Others,0.17%
+7951,YAMAHA CORP.,Other Manufacturing,Capital Goods/Others,0.66%
+7974,"NINTENDO CO., LTD.",Services,Consumer Goods,0.72%
+8001,ITOCHU CORP.,Trading Companies,Materials,0.52%
+8002,MARUBENI CORP.,Trading Companies,Materials,0.19%
+8015,TOYOTA TSUSHO CORP.,Trading Companies,Materials,0.64%
+8031,"MITSUI & CO., LTD.",Trading Companies,Materials,0.49%
+8035,TOKYO ELECTRON LTD.,Electric Machinery,Technology,5.52%
+8053,SUMITOMO CORP.,Trading Companies,Materials,0.28%
+8058,MITSUBISHI CORP.,Trading Companies,Materials,0.56%
+8233,"TAKASHIMAYA CO., LTD.",Retail,Consumer Goods,0.11%
+8252,"MARUI GROUP CO., LTD.",Retail,Consumer Goods,0.29%
+8253,"CREDIT SAISON CO., LTD.",Other Financial Services,Financials,0.22%
+8267,"AEON CO., LTD.",Retail,Consumer Goods,0.35%
+8304,"AOZORA BANK, LTD.",Banking,Financials,0.03%
+8306,"MITSUBISHI UFJ FINANCIAL GROUP, INC.",Banking,Financials,0.09%
+8308,"RESONA HOLDINGS, INC.",Banking,Financials,0.01%
+8309,"SUMITOMO MITSUI TRUST HOLDINGS, INC.",Banking,Financials,0.05%
+8316,"SUMITOMO MITSUI FINANCIAL GROUP, INC.",Banking,Financials,0.06%
+8331,"THE CHIBA BANK, LTD.",Banking,Financials,0.10%
+8354,"FUKUOKA FINANCIAL GROUP, INC.",Banking,Financials,0.07%
+8411,"MIZUHO FINANCIAL GROUP, INC.",Banking,Financials,0.02%
+8591,ORIX CORP.,Other Financial Services,Financials,0.27%
+8601,DAIWA SECURITIES GROUP INC.,Securities,Financials,0.07%
+8604,"NOMURA HOLDINGS, INC.",Securities,Financials,0.06%
+8628,"MATSUI SECURITIES CO., LTD.",Securities,Financials,0.10%
+8630,"SOMPO HOLDINGS, INC.",Insurance,Financials,0.15%
+8697,"JAPAN EXCHANGE GROUP, INC.",Other Financial Services,Financials,0.24%
+8725,"MS&AD INSURANCE GROUP HOLDINGS, INC.",Insurance,Financials,0.15%
+8750,"DAI-ICHI LIFE HOLDINGS, INC.",Insurance,Financials,0.03%
+8766,"TOKIO MARINE HOLDINGS, INC.",Insurance,Financials,0.52%
+8795,"T&D HOLDINGS, INC.",Insurance,Financials,0.04%
+8801,"MITSUI FUDOSAN CO., LTD.",Real Estate,Capital Goods/Others,0.34%
+8802,"MITSUBISHI ESTATE CO., LTD.",Real Estate,Capital Goods/Others,0.24%
+8804,"TOKYO TATEMONO CO., LTD.",Real Estate,Capital Goods/Others,0.12%
+8830,"SUMITOMO REALTY & DEVELOPMENT CO., LTD.",Real Estate,Capital Goods/Others,0.46%
+9001,"TOBU RAILWAY CO., LTD.",Railway & Bus,Transportation and Utilities,0.08%
+9005,TOKYU CORP.,Railway & Bus,Transportation and Utilities,0.11%
+9007,"ODAKYU ELECTRIC RAILWAY CO., LTD.",Railway & Bus,Transportation and Utilities,0.11%
+9008,KEIO CORP.,Railway & Bus,Transportation and Utilities,0.13%
+9009,"KEISEI ELECTRIC RAILWAY CO., LTD.",Railway & Bus,Transportation and Utilities,0.24%
+9020,EAST JAPAN RAILWAY CO.,Railway & Bus,Transportation and Utilities,0.10%
+9021,WEST JAPAN RAILWAY CO.,Railway & Bus,Transportation and Utilities,0.07%
+9022,"CENTRAL JAPAN RAILWAY CO., LTD.",Railway & Bus,Transportation and Utilities,0.20%
+9064,"YAMATO HOLDINGS CO., LTD.",Land Transport,Transportation and Utilities,0.28%
+9101,NIPPON YUSEN K.K.,Marine Transport,Transportation and Utilities,0.11%
+9104,"MITSUI O.S.K.LINES, LTD.",Marine Transport,Transportation and Utilities,0.12%
+9107,"KAWASAKI KISEN KAISHA, LTD.",Marine Transport,Transportation and Utilities,0.10%
+9147,"NIPPON EXPRESS HOLDINGS, INC.",Land Transport,Transportation and Utilities,0.10%
+9202,ANA HOLDINGS INC.,Air Transport,Transportation and Utilities,0.04%
+9301,MITSUBISHI LOGISTICS CORP.,Warehousing,Transportation and Utilities,0.20%
+9432,NIPPON TELEGRAPH & TELEPHONE CORP.,Communications,Technology,0.19%
+9433,KDDI CORP.,Communications,Technology,3.02%
+9434,SOFTBANK CORP.,Communications,Technology,0.18%
+9501,"TOKYO ELECTRIC POWER COMPANY HOLDINGS, I",Electric Power,Transportation and Utilities,0.01%
+9502,"CHUBU ELECTRIC POWER CO., INC.",Electric Power,Transportation and Utilities,0.02%
+9503,"THE KANSAI ELECTRIC POWER CO., INC.",Electric Power,Transportation and Utilities,0.01%
+9531,"TOKYO GAS CO., LTD.",Gas,Transportation and Utilities,0.06%
+9532,"OSAKA GAS CO., LTD.",Gas,Transportation and Utilities,0.05%
+9602,"TOHO CO., LTD",Services,Consumer Goods,0.06%
+9613,NTT DATA CORP.,Communications,Technology,1.29%
+9735,"SECOM CO., LTD.",Services,Consumer Goods,1.04%
+9766,KONAMI GROUP CORP.,Services,Consumer Goods,0.79%
+9983,"FAST RETAILING CO., LTD.",Retail,Consumer Goods,9.89%
+9984,SOFTBANK GROUP CORP.,Communications,Technology,4.37%
